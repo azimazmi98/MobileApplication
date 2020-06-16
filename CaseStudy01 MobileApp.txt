@@ -17,14 +17,13 @@ Functions:
 
 Task Distribution:
 
-GM01:	i)	User details [Single-array]
-	ii)	Display details 
+Azim:		i)	User details [Single-array]
+		ii)	Edit details 
 
-GM02:	i)	Salary input - Working Hours [2D-Array]
-	ii)	Calculate total of working hours (Total of 22 days)
+Huzaifi:	i)	Salary input - Working Hours [2D-Array]
+		ii)	Calculate total of working hours (Total of 22 days)
 
-GM03:	i)	Calculate total of clean salary [Retrieve previous array [Salary 2D-Array]]
-	ii)	EPF, Payrate of 6%
-	iii)	Display the details of clean salary
+Firdaus:	i)	Calculate total of clean salary [Retrieve previous array [Salary 2D-Array]]
+		iii)	Display the details of clean salary
 
 
