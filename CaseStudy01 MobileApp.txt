@@ -1,0 +1,30 @@
+Payroll Management System for Single User/Employee:
+
+Functions:
+
+	i) User details
+		- 	Input details
+		- 	(EDIT details)
+
+	ii) Payrate Calculations
+		-	Salary (EPF, total payrate per day)
+		-	Working Hours ( Start time, Finish time, Total Working hours )
+		-	Operations ( Calculation of clean salary)
+
+	iii) Output
+		-	Display Clean Salary for each employee
+
+
+Task Distribution:
+
+GM01:	i)	User details [Single-array]
+	ii)	Display details 
+
+GM02:	i)	Salary input - Working Hours [2D-Array]
+	ii)	Calculate total of working hours (Total of 22 days)
+
+GM03:	i)	Calculate total of clean salary [Retrieve previous array [Salary 2D-Array]]
+	ii)	EPF, Payrate of 6%
+	iii)	Display the details of clean salary
+
+
